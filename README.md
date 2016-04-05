@@ -1,1 +1,1 @@
-## DogGram -- Possible Applications of Data-Oriented Parsing to Categorial Grammar
+## DogGram---Applications of Data-Oriented Parsing to Categorial Grammar
