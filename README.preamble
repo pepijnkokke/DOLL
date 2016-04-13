@@ -1,0 +1,7 @@
+\usepackage{bussproofs}
+\EnableBpAbbreviations
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
