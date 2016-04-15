@@ -1,6 +1,21 @@
 \usepackage{bussproofs}
 \EnableBpAbbreviations
 
+\let\oldemptyset\emptyset
+\let\emptyset\varnothing
+\def\prod{\bullet}
+\def\impl{\mathbin{\slash}}
+\def\impr{\mathbin{\backslash}}
+
+\usepackage{mdframed}
+\usepackage{graphicx}
+\newenvironment{pfbox}[1][0.9]%
+  {\gdef\scalefactor{#1} \leavevmode\hbox\bgroup}
+  {\scalebox{\scalefactor}{\DisplayProof} \egroup}
+
+\usepackage{tikz}
+\usepackage{tikz-qtree}
+
 %%% Local Variables:
 %%% mode: latex
 %%% TeX-master: t
