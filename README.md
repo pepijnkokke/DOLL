@@ -1,6 +1,6 @@
 ---
 title  : What do Data-Oriented Parsing and Categorial Grammar have to offer each other?
-author : Pepijn Kokke
+author : Wen Kokke
 date   : April 6th, 2016
 ---
 
